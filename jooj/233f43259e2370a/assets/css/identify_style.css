@@ -1,0 +1,79 @@
+header{
+	background-color: black;
+}
+#o-header.polaris3 #o-ribbon #o-nav-left .o-nav-item, #o-header.polaris3 #o-ribbon #o-nav-right .o-nav-item{
+	color: white;
+}
+#o-header.polaris3{
+	background-color: black;
+}
+#o-header.polaris3 #o-ribbon{
+	background-color: black;
+	color:white;
+}
+#o-header.polaris3 #o-ribbon .o-nav-left li a{
+	color: white;
+
+}
+.o-container-fluid .eui-form #stage-1 .btn-sub-style:hover, .btn-sub-style:focus{
+	background-color: black;
+	outline-style: none;
+	color: white;
+	transition: 0.5s;
+}
+.o-container-fluid .eui-form #stage-1 .btn-sub-style{
+	width: 150px;
+	color: white;
+	background-color: rgb(241, 110, 0);
+}
+.placeholderNum .placeholderDisplay, .placeholderHidden{
+	display: block;
+	font-size: 16px;
+	font-weight: 400;
+}
+.placeholderNum:hover{
+}
+.placeholderNum span:hover{
+	color:black;
+}
+.placeNum{
+	margin-top: -32px;
+	font-size: 16px;
+	color: black;
+	padding-left: 2px;
+	transition: 0.5s;
+}
+.placeholderNum input{
+	border: none;
+	border-bottom: 1px solid #999;
+	font-size: 16px;
+	font-weight: 400!important;
+}
+.eui-input-style{
+	margin-bottom: 50px;
+}
+hr{
+	border-top: #555;
+	border-top:1px solid #999;
+}
+a:hover{
+	text-decoration: underline;
+	text-decoration-color: rgb(241, 110, 0);
+}
+.list-link{
+	margin: 20px 0;
+}
+.list-link .list-link-label img{
+	margin-left: 5px;
+}
+@media (min-width: 1440px){
+	.eui-title-area .identify-title{
+		font-size: 42px;
+	}
+	.eui-input-label .eui-label, .eui-input-label label{
+		font-size: 25px;
+	}
+	.eui-error-area p, .eui-links a{
+		font-size: 16px;
+	}
+}

@@ -1,0 +1,6 @@
+.o-container-fluid .eui-form #stage-1 .btn-sub-style: hover, .btn-sub-style:focus{
+	background-color: black;
+}
+.o-container-fluid .eui-form #stage-1 .btn-sub-style{
+	background-color: rgb(241, 110, 0);
+}

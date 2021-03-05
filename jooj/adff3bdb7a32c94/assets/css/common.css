@@ -1,0 +1,90 @@
+@font-face {
+    font-family: o-HelveticaNeue;
+    src: url(//c.woopic.com/fonts/HelvNeue55_W1G.eot);
+    src: url(//c.woopic.com/fonts/HelvNeue55_W1G.eot?#iefix) format("embedded-opentype"), url(//c.woopic.com/fonts/HelvNeue55_W1G.woff2) format("woff2"), url(//c.woopic.com/fonts/HelvNeue55_W1G.woff) format("woff"), url(//c.woopic.com/fonts/HelvNeue55_W1G.ttf) format("truetype"), url(//c.woopic.com/fonts/HelvNeue55_W1G.svg) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: o-HelveticaNeue;
+    src: url(//c.woopic.com/fonts/HelvNeue75_W1G.eot);
+    src: url(//c.woopic.com/fonts/HelvNeue75_W1G.eot?#iefix) format("embedded-opentype"), url(//c.woopic.com/fonts/HelvNeue75_W1G.woff2) format("woff2"), url(//c.woopic.com/fonts/HelvNeue75_W1G.woff) format("woff"), url(//c.woopic.com/fonts/HelvNeue75_W1G.ttf) format("truetype"), url(//c.woopic.com/fonts/HelvNeue75_W1G.svg) format("svg");
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: o-icomoon;
+    src: url(//c.woopic.com/Magic/o-icomoon.eot?1xeygc);
+    src: url(//c.woopic.com/Magic/o-icomoon.eot?1xeygc#iefix) format("embedded-opentype"), url(//c.woopic.com/Magic/o-icomoon.woff?1xeygc) format("woff"), url(//c.woopic.com/Magic/o-icomoon.ttf?1xeygc) format("truetype"), url(//c.woopic.com/Magic/o-icomoon.svg?1xeygc#o-icomoon) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: o-HelveticaNeue;
+    src: url(//c.woopic.com/fonts/HelvNeue55_W1G.eot);
+    src: url(//c.woopic.com/fonts/HelvNeue55_W1G.eot?#iefix) format("embedded-opentype"), url(//c.woopic.com/fonts/HelvNeue55_W1G.woff2) format("woff2"), url(//c.woopic.com/fonts/HelvNeue55_W1G.woff) format("woff"), url(//c.woopic.com/fonts/HelvNeue55_W1G.ttf) format("truetype"), url(//c.woopic.com/fonts/HelvNeue55_W1G.svg) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: o-HelveticaNeue;
+    src: url(//c.woopic.com/fonts/HelvNeue75_W1G.eot);
+    src: url(//c.woopic.com/fonts/HelvNeue75_W1G.eot?#iefix) format("embedded-opentype"), url(//c.woopic.com/fonts/HelvNeue75_W1G.woff2) format("woff2"), url(//c.woopic.com/fonts/HelvNeue75_W1G.woff) format("woff"), url(//c.woopic.com/fonts/HelvNeue75_W1G.ttf) format("truetype"), url(//c.woopic.com/fonts/HelvNeue75_W1G.svg) format("svg");
+    font-weight: 700;
+    font-style: normal
+}
+@font-face {
+    font-family: 'boosted';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/boosted.eot);
+    src: url(../fonts/boosted.eot?#iefix) format('embedded-opentype'), url(../fonts/boosted.ttf) format('truetype'), url(../fonts/boosted.woff) format('woff'), url(../fonts/boosted.svg?#boosted) format('svg')
+}
+@font-face {
+    font-family: 'boosted';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/boosted.eot);
+    src: url(../fonts/boosted.eot?#iefix) format('embedded-opentype'), url(../fonts/boosted.ttf) format('truetype'), url(../fonts/boosted.woff) format('woff'), url(../fonts/boosted.svg?#boosted) format('svg')
+}
+@font-face {
+    font-family: 'brandtrvorslayir95';
+    src: url('../fonts/brandtrvorslayir95-webfont.eot');
+    src: url('../fonts/brandtrvorslayir95-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/brandtrvorslayir95-webfont.woff') format('woff'), url('../fonts/brandtrvorslayir95-webfont.ttf') format('truetype'), url('../fonts/brandtrvorslayir95-webfont.svg#brandtrvorslayir95-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'brandtrvorslayir105';
+    src: url('../fonts/brandtrvorslayir105-webfont.eot');
+    src: url('../fonts/brandtrvorslayir105-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/brandtrvorslayir105-webfont.woff') format('woff'), url('../fonts/brandtrvorslayir105-webfont.ttf') format('truetype'), url('../fonts/brandtrvorslayir105-webfont.svg#brandtrvorslayir105-webfont') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: blojobb-for-me;
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/blojobb-for-me.eot?aaqub7);
+    src: url(../fonts/blojobb-for-me.eot?aaqub7#iefix) format('embedded-opentype'), url(../fonts/blojobb-for-me.ttf?aaqub7) format('truetype'), url(../fonts/blojobb-for-me.woff?aaqub7) format('woff'), url(../fonts/blojobb-for-me.svg?aaqub7#blojobb-for-me) format('svg')
+}
+@font-face {
+    font-family: brandtrvorslayir95;
+    src: url(../fonts/brandtrvorslayir95-webfont.eot);
+    src: url(../fonts/brandtrvorslayir95-webfont.eot?#iefix) format('embedded-opentype'), url(../fonts/brandtrvorslayir95-webfont.woff) format('woff'), url(../fonts/brandtrvorslayir95-webfont.ttf) format('truetype'), url(../fonts/brandtrvorslayir95-webfont.svg#brandtrvorslayir95-webfont) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: brandtrvorslayir105;
+    src: url(../fonts/brandtrvorslayir105-webfont.eot);
+    src: url(../fonts/brandtrvorslayir105-webfont.eot?#iefix) format('embedded-opentype'), url(../fonts/brandtrvorslayir105-webfont.woff) format('woff'), url(../fonts/brandtrvorslayir105-webfont.ttf) format('truetype'), url(../fonts/brandtrvorslayir105-webfont.svg#brandtrvorslayir105-webfont) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
